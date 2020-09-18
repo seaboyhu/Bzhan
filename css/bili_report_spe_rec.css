@@ -1,0 +1,36 @@
+/* bili_report_spe_rec */
+.s-rec{
+    height: 252px;
+    overflow: hidden;
+    /* background: red; */
+}
+.s-rec .gg{
+    width: 320px;
+    margin-top: 52px;
+    position: relative;
+}
+.content-help{
+    position: fixed;
+    z-index: 101;
+    left: 0;
+    top: calc(50% - 30px);
+    margin-top: -36px;
+    width: 20px;
+    height: 60px;
+    transition: all .3s;
+    font-size: 12px;
+    color: #505050;
+    background: #fff;
+    border: 1px solid #e7e7e7;
+    box-shadow: 0 6px 10px 0 #e7e7e7;
+    border-radius: 0 2px 2px 0;
+    padding: 8px 7px;
+    line-height: 14px;
+}
+
+
+
+
+
+
+
